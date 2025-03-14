@@ -20,9 +20,6 @@
    ```sh
    mvn spring-boot:run
 
-
-      
-
 4. If everything is correct, informational logs will indicate that the application has started. By default, it will run on port **8080**.
 5. Open **Postman** to test the API requests.
 
