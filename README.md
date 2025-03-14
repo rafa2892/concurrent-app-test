@@ -1,4 +1,4 @@
-# Event Manager
+# Event Manager local installation guide
 
 ## Requirements
 1. **Postman**: To create and test API requests.
