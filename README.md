@@ -6,12 +6,23 @@
 3. **Environment variable `JAVA_HOME`**: Must be correctly configured.
 
 ## Instructions
-1. Unzip the file containing the `jar` file.
-2. Open the console in the directory where the `.jar` file is located.
-3. Run the following command:
+1. Clone the repository:
    ```sh
-   java -jar AriadnaEventManager-1.0.0.jar
-   ```
+   git clone https://github.com/rafa2892/concurrent-app-test.git
+
+2. Navigate to the project directory:
+
+3. Install the required dependencies:
+   ```sh
+   mvn clean install
+
+4. Run the application:
+   ```sh
+   mvn spring-boot:run
+
+
+      
+
 4. If everything is correct, informational logs will indicate that the application has started. By default, it will run on port **8080**.
 5. Open **Postman** to test the API requests.
 
