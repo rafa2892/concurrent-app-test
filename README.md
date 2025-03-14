@@ -1,4 +1,4 @@
-# Ariadna Event Manager
+# Event Manager
 
 ## Requirements
 1. **Postman**: To create and test API requests.
